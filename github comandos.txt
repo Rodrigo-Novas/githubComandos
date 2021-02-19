@@ -1,0 +1,1 @@
+git commit -amend (Saca el ultimo comentario del commit, abre el vim)
