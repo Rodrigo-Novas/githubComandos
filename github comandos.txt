@@ -1,3 +1,17 @@
 git commit -amend (Saca el ultimo comentario del commit, abre el vim)
 
-ghg
+
+Fork vs clone
+
+
+
+Cuando queremos contribuir con un proyecto existente al cual no tenemos permisos de
+escritura(push access) podemos realizar un “fork” de dicho proyecto. Cuando realizamos un
+fork de un repositorio, GitHub intentará hacer una copia entera del proyecto en nuestra
+cuenta de usuario; vive en nuestro nombre de espacio, es decir que podemos realizar
+cualquier cambio en él.
+De esta manera, los proyectos no tienen que preocuparse por agregar usuarios como
+colaboradores ni darles permisos especiales. Cualquier persona puede entonces hacer un
+fork de cualquier proyecto open-source, hacerle cambios y contribuir con esos cambios al
+proyecto original creando lo que se denomina un “Pull Request”.
+
